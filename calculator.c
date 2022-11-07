@@ -21,5 +21,5 @@ printf("Eredmeny: ", a);
    printf("\nNem definialt muvelet");
 }   
 
-
+if (iaidsia)
  
